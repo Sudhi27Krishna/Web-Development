@@ -1,0 +1,13 @@
+/* .carousel-item {
+    height: 500px;
+} */
+h1 {
+    font-size: 30px;
+}
+
+@media (max-width: 1000px) and (min-width: 900px) {
+    h1 {
+        font-size: 60px;
+        color: red;
+    }
+}

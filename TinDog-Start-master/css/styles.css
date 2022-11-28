@@ -1,0 +1,194 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+/* Headings  */
+.big-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 3.5rem;
+}
+
+.section-heading {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15% 5%;
+}
+
+/* Sections  */
+.coloured-section {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-section {
+    background-color: white;
+}
+
+#title {
+    text-align: left;
+}
+
+/* Navigation Bar  */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* button  */
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* title image  */
+.title-image {
+    /* width: 60%; commented because not working after applying z-index. changed it to 20% */ 
+    width: 20%; 
+    transform: rotate(25deg);
+    position: absolute;
+    right: 25%;
+}
+
+/* features section  */
+#features {
+    padding: 7% 15%;
+    position: relative;
+    /* z-index: 1; not needed because it comes below in the flow*/  
+}
+
+.features-box {
+    padding: 5% 2.5%;
+}
+
+.feature-title {
+    font-weight: bold;
+}
+
+.f-icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.f-icon:hover {
+    color: #ff4c68;
+}
+
+/* Testimonials section   */
+#testimonials {
+    /* padding: 7% 15%; */
+    background-color: #ef8172;
+    /* color: white; (combined selectors in coloured-section class) */
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+#press {
+    padding-bottom: 3%;
+    background-color: #ef8172;
+}
+ 
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Pricing Section   */
+.price-text {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+@media (max-width: 990px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0); 
+        width: 60%;
+    }
+}
+
+/* Call to Action  */
+#cta {
+    font-family: 'Montserrat', sans-serif;
+    /* background-color: #ff4c68;
+    color: white; (combined selectors in coloured-section class) */
+    padding: 7% 15%;
+}
+
+/* .cta-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+} 
+Replaced by big-heading class
+*/
+
+.cta-button {
+    margin: 2% 3% 2% 0;
+}
+
+/* Footer  */
+#footer {
+    padding: 90px 0 30px;
+}
+
+.footer-icon {
+    padding: 0 10px 20px;
+}
