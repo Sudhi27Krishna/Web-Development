@@ -1,1 +1,16 @@
 # Contains all my learnings and projects in Web Development
+- Authorization and Secrets
+- Blog with Database
+- Calculator
+- CSS-My Site
+- Dice Challenge
+- Drum Kit
+- Daily Journal 
+- Keeper App Project
+- Simon Game Challenge
+- The MailChimp API
+- TinDog Site
+- Todolist-v1
+- Todolist-v2
+- Weather Project
+- Wiki API
