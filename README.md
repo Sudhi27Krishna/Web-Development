@@ -1,4 +1,4 @@
-# Contains all my learnings and projects in Web-Development
+# Contains all my learnings and projects in Web Development
 - Authorization and Secrets
 - Blog-with-Database
 - Calculator
@@ -14,3 +14,4 @@
 - todolist-v2
 - WeatherProject
 - Wiki-API
+
