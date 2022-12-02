@@ -1,6 +1,6 @@
-# Contains all my learnings in Web-Development
+# Contains all my learnings and projects in Web Development
 - Authorization and Secrets
-- Blog-with-Database
+- Blog with Database
 - Calculator
 - CSS-My Site
 - Dice Challenge
@@ -10,7 +10,7 @@
 - Simon Game Challenge
 - The MailChimp API
 - TinDog Site
-- todolist-v1
-- todolist-v2
+- Todolist-v1
+- Todolist-v2
 - Weather Project
 - Wiki API
