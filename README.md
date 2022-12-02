@@ -7,7 +7,7 @@
 - Drum Kit
 - Daily Journal 
 - Keeper App Project
-- Simon Game Challenge
+- Simon Game
 - The MailChimp API
 - TinDog Site
 - Todolist-v1
