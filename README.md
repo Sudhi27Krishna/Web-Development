@@ -1,1 +1,1 @@
-# Contains all my learnings in Web-Development
+# Contains all my learnings and projects in Web-Development
