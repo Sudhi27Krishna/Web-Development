@@ -5,11 +5,11 @@
 - CSS-My Site
 - Dice Challenge
 - Drum Kit
-- ejs-challenge
+- Daily Journal
 - Keeper App Project
 - Simon Game Challenge
 - The-MailChimp-API
-- TinDog-Start-master
+- TinDog Site
 - todolist-v1
 - todolist-v2
 - WeatherProject
